@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação para gerenciar e visualizar informações sobre gatos. Ele é composto por um backend em Java utilizando um banco de dados PostgreSQL e um frontend em React com TypeScript, criado com Vite.
 
+<img width="1624" alt="Screenshot 2024-09-03 at 16 34 35" src="https://github.com/user-attachments/assets/0aee4b3b-bff5-48f3-a74c-7ceb2d572219">
+
 ## Funcionalidades
 
 - Backend (Java):
